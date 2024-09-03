@@ -1,23 +1,14 @@
 # About VENT_RoN_ModPack
 This is a Mod Pack for Velociti Entertainments Private Ready or Not Server.
 
-* Drag & Drop - Very Simple Install
-
 # Download & Installation:
-1) Download the .zip.
-2) Extract the .zip or Open the .zip.
+1) [Go to Google Drive]( https://drive.google.com/drive/folders/11hDj9MZr3kEUFVjTU5D4NUKbFhZjVAv_?usp=drive_link )
+2) Download Files.
 3) Go to your Steam > steamapps > common > Ready or Not > ReadyorNot > Content > Paks Directory.
 4) Drag & Drop all the contents of Drag & Drop into the Paks Directory.
 
 # List of Mods:
-* [Black Ice GA416]( https://mod.io/g/readyornot/m/skins-ga416-blackice )
-* [Black Ice G19]( https://mod.io/g/readyornot/m/skins-g19-blackice )
-* [Black Ice M870CQB]( https://mod.io/g/readyornot/m/skins-m870cqb-blackice )
-* [Black Ice Battering Ram]( https://mod.io/g/readyornot/m/skins-battering-ram-blackice )
-* [Black Ice Shield]( https://mod.io/g/readyornot/m/skins-shield-blackice )
-* [Black Ice UMP45]( https://mod.io/g/readyornot/m/skins-ump45-blackice )
-* [Black Ice R7 Launcher]( https://mod.io/g/readyornot/m/skins-r7-launcher-blackice )
-* [Black Ice M4 Super90]( https://mod.io/g/readyornot/m/skins-m4-super90-blackice )
+* [Visceral Blood]( https://mod.io/g/readyornot/m/visceral-blood )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
