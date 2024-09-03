@@ -7,6 +7,8 @@ This is a Mod Pack for Velociti Entertainments Private Ready or Not Server.
 3) Go to your Steam > steamapps > common > Ready or Not > ReadyorNot > Content > Paks Directory.
 4) Drag & Drop all the contents of Drag & Drop into the Paks Directory.
 
+* [Steam FAQ about Modding RoN]( https://steamcommunity.com/app/1144200/discussions/1/3825286048541332098/ )
+
 # List of Mods:
 * [Visceral Blood]( https://mod.io/g/readyornot/m/visceral-blood )
 
