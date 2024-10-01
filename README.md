@@ -10,8 +10,12 @@ This is a Mod Pack for Velociti Entertainments Private Ready or Not Server.
 * [Steam FAQ about Modding RoN]( https://steamcommunity.com/app/1144200/discussions/1/3825286048541332098/ )
 
 # List of Mods:
-* [Visceral Blood]( https://mod.io/g/readyornot/m/visceral-blood )
+* [Gunfighter Gameplay Improvement V4]( https://www.nexusmods.com/readyornot/mods/3160 )
+* [Gunfighter NVG Improvement v5.0]( https://www.nexusmods.com/readyornot/mods/3615 )
+* [Visceral Blood]( https://www.nexusmods.com/readyornot/mods/3311 )
 * [More Slots]( https://mod.io/g/readyornot/m/more-slots1 )
+* [No Mercy for Terrorists]( https://www.nexusmods.com/readyornot/mods/3234 )
+* [No Crack for AI]( https://www.nexusmods.com/readyornot/mods/3169 )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
