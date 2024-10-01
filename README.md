@@ -11,6 +11,7 @@ This is a Mod Pack for Velociti Entertainments Private Ready or Not Server.
 
 # List of Mods:
 * [Visceral Blood]( https://mod.io/g/readyornot/m/visceral-blood )
+* [More Slots]( https://mod.io/g/readyornot/m/more-slots1 )
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
